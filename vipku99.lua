@@ -1,4 +1,4 @@
-Password = "pubgh2" 
+Password = "ADMINKNTL" 
 Result = gg.prompt({"Password"},nil,{"text"})
 if Result[1] == Password then 
 gg.alert("▶▶ⓌⒺⓁⒸⓄⓂⒺ◀◀\n▶▶Join Telegram Channel :\n▶▶t.me/h2channel99◀◀") else
